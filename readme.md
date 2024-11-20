@@ -1,3 +1,15 @@
+# 📚 **Libros del Mundo: Historias Contemporáneas**
+
+### 🌍 **Descripción**
+Este repositorio es un viaje literario a través de los continentes, un compendio de obras seleccionadas con una regla simple pero significativa: **todos los libros aquí listados han sido publicados desde 2010 en adelante**. El objetivo es ofrecer una ventana al alma cultural de cada país, contada por autores que viven y sienten las realidades y matices de su propia tierra. 
+
+Cada libro incluido es más que una obra: es una perspectiva, un retrato, una historia contemporánea que nos conecta con el presente global desde las letras locales.
+
+
+### 🧾 **Listado**
+
+
+
 | País | Autor | Libro (Año de publicación) | Bibliotecas del mundo |
 |---|---|---|---|
 | Afganistán                         | Khaled Hosseini                 | Y las montañas hablaron (2013)                                  | https://www.worldcat.org/search?q=ti:y+las+montañas+hablaron+au:khaled-hosseini |
@@ -187,3 +199,71 @@
 | Yemen                              | Wajdi al-Ahdal                  | A Land Without Jasmine (2012)                                   | https://www.worldcat.org/search?q=ti:a+land+without+jasmine+au:wajdi-al-ahdal |
 | Zambia                             | Namwali Serpell                 | The Old Drift (2019)                                            | https://www.worldcat.org/search?q=ti:the+old+drift+au:namwali-serpell |
 | Zimbabue                           | NoViolet Bulawayo               | We Need New Names (2013)                                        | https://www.worldcat.org/search?q=ti:we+need+new+names+au:noviolet-bulawayo |
+
+
+
+## 📑 **Tabla de Contenidos**
+
+1. [Acerca del Proyecto](#acerca-del-proyecto)
+2. [Cómo Participar](#cómo-participar)
+3. [Exploración de Libros](#exploración-de-libros)
+4. [Inspiración y Filosofía](#inspiración-y-filosofía)
+5. [Licencia](#licencia)
+
+---
+
+## 📖 **Acerca del Proyecto**
+
+**¿Por qué libros desde 2010?**  
+La literatura evoluciona junto con las sociedades. Este proyecto está diseñado para capturar las voces frescas y los contextos actuales de cada nación. Nos interesa explorar qué están escribiendo y leyendo las personas en el siglo XXI. Al centrarnos en obras contemporáneas, destacamos los temas, estilos y perspectivas que reflejan los desafíos y sueños de nuestro tiempo.
+
+---
+
+## 🤝 **Cómo Participar**
+
+Este repositorio es **abierto y colaborativo**. Si tienes una recomendación de un libro que cumpla con las reglas, sigue estos pasos para contribuir:
+
+1. Asegúrate de que el libro haya sido **escrito por un autor del país que representa** y **publicado a partir de 2010**.
+2. Haz un fork del repositorio.
+3. Añade tu recomendación en el formato existente en la tabla principal.
+4. Envíanos un pull request con tu entrada y una breve descripción de por qué elegiste esa obra.
+
+
+**Reglas clave:**
+- Obras publicadas desde 2010.
+- Escritas por autores del país que representan. 
+- Deben estar disponibles para consulta en bibliotecas o plataformas globales.
+
+---
+
+## 🔍 **Exploración de Libros**
+
+Cada entrada incluye:
+- 🌎 El país representado.
+- ✍️ El autor y la obra seleccionada.
+- 📆 Año de publicación.
+- 🔗 Enlace directo a WorldCat para buscar el libro en bibliotecas cercanas.
+
+
+> [!IMPORTANT]
+> `https://www.worldcat.org/search?q=ti:TITULO+DEL+LIBRO+au:AUTOR+DEL+LIBRO`
+
+
+
+Navegar por la tabla principal te permitirá explorar culturas y descubrir historias que quizá nunca habías imaginado.
+
+---
+
+## 💡 **Inspiración y Filosofía**
+
+Este proyecto no es solo una lista de libros: es un esfuerzo por visibilizar las narrativas que surgen desde cada rincón del mundo. En un mundo interconectado, la literatura contemporánea es un puente para comprendernos mejor, una forma de viajar sin movernos, y una invitación a empatizar con realidades diversas. 
+
+---
+
+## 📝 **Licencia**
+
+El contenido de este repositorio se distribuye bajo la licencia **MIT**, lo que significa que puedes usarlo, adaptarlo y compartirlo libremente. ¡Sólo pedimos que sigas construyendo este mapa literario con el espíritu de la colaboración!
+
+---
+
+¡Esperamos tus aportaciones! Cada libro nuevo es una pieza que enriquece esta biblioteca global de voces contemporáneas. 📚✨
